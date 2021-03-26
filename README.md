@@ -7,6 +7,7 @@
 
 ## About
 - FB group challenge 
+- SwiftUI & Combine
 - based on MVVM design pattern
 
 ## Requirement
