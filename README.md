@@ -1,7 +1,7 @@
 # FB-Parsed-Sequence
 [FB group challenge](https://bit.ly/2NSG7xN)
 
-![Image] (https://github.com/DimNovo/FB-Parsed-Sequence/blob/main/Promo.png)
+![Image](https://github.com/DimNovo/FB-Parsed-Sequence/blob/main/Promo.png)
 
 ## Description
 
